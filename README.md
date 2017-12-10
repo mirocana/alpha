@@ -15,6 +15,7 @@ Create, test and evaluate your own trading strategies with Mirocana core.
 
 AVAILABLE INSTRUMENTS FOR CURRENCY MARKET:
 
+```
 ┌─symbol_ticket─┐
 │ AU200_AUD     │
 │ AUD_CAD       │
@@ -141,10 +142,12 @@ AVAILABLE INSTRUMENTS FOR CURRENCY MARKET:
 │ XPT_USD       │
 │ ZAR_JPY       │
 └───────────────┘
+```
 
 
 AVAILABLE INSTRUMENTS FOR CRYPTO-CURRENCY MARKET:
 
+```
 ┌─symbol_ticket─┐
 │ BTC_AMP       │
 │ BTC_ARDR      │
@@ -249,3 +252,4 @@ AVAILABLE INSTRUMENTS FOR CRYPTO-CURRENCY MARKET:
 │ XMR_NXT       │
 │ XMR_ZEC       │
 └───────────────┘
+```
